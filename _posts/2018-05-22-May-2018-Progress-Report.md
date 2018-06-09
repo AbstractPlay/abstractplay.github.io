@@ -12,6 +12,6 @@ Had some days off over the long weekend. I had some motivation issues, but ultim
 
 * Profile creation is now working in the test environment. I'm getting an odd error in production that I'm tracking down, but I ran out of time.
 
-* I'm also workshopping the [terms of service](https://www.abstractplay.com/terms.html) and [privacy policy](https://www.abstractplay.com/privacy.html). Any feedback welcome.
+* I'm also workshopping the [terms of service](https://www.abstractplay.com/terms) and [privacy policy](https://www.abstractplay.com/privacy). Any feedback welcome.
 
 Thanks!
