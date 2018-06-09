@@ -1,6 +1,6 @@
 ---
-title: "May 2016 Progress Report"
 excerpt: "As I expected, having guaranteed development time every month has made it easier for me to make time on the weekends to do additional work. I actually got quite a bit done this month."
+category: blog
 ---
 
 Here's the first monthly progress report.

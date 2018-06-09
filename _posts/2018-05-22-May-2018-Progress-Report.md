@@ -1,5 +1,5 @@
 ---
-title: "May 2018 Progress Report"
+category: blog
 ---
 
 Had some days off over the long weekend. I had some motivation issues, but ultimately I got a fair bit done.

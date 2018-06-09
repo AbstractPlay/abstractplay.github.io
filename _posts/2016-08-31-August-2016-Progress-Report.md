@@ -1,5 +1,5 @@
 ---
-title: "August 2016 Progress Report"
+category: blog
 ---
 
 This summer has been frustrating, development wise. Work has been crazy busy, and I'm not slacking off at home either! So I've had minimal coding time again. I'm really hoping things open up a little in the fall, and I'm looking forward to some serious progress over winter vacation.

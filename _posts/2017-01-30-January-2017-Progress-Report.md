@@ -1,5 +1,5 @@
 ---
-title: "January 2017 Progress Report"
+category: blog
 ---
 
 I'm finally back on the development train. I have a few banked days, so I'll keep plugging along. 

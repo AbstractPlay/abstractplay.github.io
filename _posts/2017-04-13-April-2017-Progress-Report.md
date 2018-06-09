@@ -1,5 +1,5 @@
 ---
-title: "April 2017 Progress Report"
+category: blog
 ---
 
 Two words: development hell.

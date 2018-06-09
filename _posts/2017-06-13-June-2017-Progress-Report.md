@@ -1,5 +1,5 @@
 ---
-title: "June 2017 Progress Report"
+category: blog
 ---
 
 I got three development days in since the last update and actually made some meaningful progress.

@@ -1,5 +1,5 @@
 ---
-title: "July 2017 Progress Report"
+category: blog
 ---
 
 July was pretty rough personally, but I did manage to get a little development time in. Here's what happened:

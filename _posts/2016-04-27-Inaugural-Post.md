@@ -1,5 +1,6 @@
 ---
 title: "SDG 2.0 is coming...eventually!"
+category: blog
 ---
 
 I have been granted professional development time every month to work on redesigning my pet project [Super Duper Games (SDG)](http://superdupergames.org)! I cannot express how excited I am about this! Having a guaranteed minimum amount of development time means that it _is_ finally going to happen. 

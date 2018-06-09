@@ -1,4 +1,5 @@
 ---
+category: blog
 ---
 
 Another exciting month! Not as much *visible* progress, but my brain is definitely smoking. Here's what happened.

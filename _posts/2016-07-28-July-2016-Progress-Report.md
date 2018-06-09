@@ -1,5 +1,5 @@
 ---
-title: "July 2016 Progress Report"
+category: blog
 ---
 
 July has been a difficult month. Not only has work been extremely busy, we've a number of deaths in the family, which brings with it many family gatherings. As a result, I've had no extra development time.

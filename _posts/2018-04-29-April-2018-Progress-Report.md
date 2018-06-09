@@ -1,5 +1,5 @@
 ---
-title: "April 2018 Progress Report"
+category: blog
 excerpt: "TLDR: Things are still moving forward. I'm moving to AWS's serverless framework to deliver Abstract Play."
 ---
 
