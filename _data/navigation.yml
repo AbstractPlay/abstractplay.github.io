@@ -1,10 +1,12 @@
 # main links
 main:
+  - title: "Blog"
+    url: /blog/
+  - title: "About Me"
+    url: /about/
   - title: "Play"
     url: https://www.abstractplay.com/play
     description: "The Abstract Play entry point. Let's play!"
-  - title: "About Me"
-    url: /about/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
