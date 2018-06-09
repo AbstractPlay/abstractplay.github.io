@@ -90,6 +90,8 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "http://twitter.com/abstractplay"
+    - "http://facebook.com/groups/abstractplay"
+    - "https://groups.google.com/forum/#!forum/superdupergames"
     - "https://github.com/AbstractPlay"
 
 # Analytics
@@ -113,11 +115,11 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/aaron.dalton.ca"
+  facebook         : "aaron.dalton.ca"
   foursquare       :
   github           : "Perlkonig"
   gitlab           :
-  google_plus      : "https://plus.google.com/u/0/101204112367013538850"
+  google_plus      : "101204112367013538850"
   keybase          :
   instagram        :
   lastfm           :
@@ -127,7 +129,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "https://twitter.com/perlkonig"
+  twitter          : "perlkonig"
   vine             :
   weibo            :
   xing             :
