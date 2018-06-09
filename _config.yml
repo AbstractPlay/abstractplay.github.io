@@ -90,8 +90,6 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "http://twitter.com/abstractplay"
-    - "http://facebook.com/groups/abstractplay"
-    - "https://groups.google.com/forum/#!forum/superdupergames"
     - "https://github.com/AbstractPlay"
 
 # Analytics
@@ -117,7 +115,7 @@ author:
   flickr           :
   facebook         : "https://www.facebook.com/aaron.dalton.ca"
   foursquare       :
-  github           : "https://github.com/Perlkonig"
+  github           : "Perlkonig"
   gitlab           :
   google_plus      : "https://plus.google.com/u/0/101204112367013538850"
   keybase          :
@@ -273,7 +271,7 @@ defaults:
       comments: # true
       share: true
       related: true
-      
+
   # _pages
   - scope:
       path: ""

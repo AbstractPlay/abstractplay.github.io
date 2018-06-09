@@ -9,12 +9,12 @@ To use our services you will be required to consent to our use of your data as o
 
 ## What do we know about you?
 
-    * Our servers track basic information as you use our services (known as "access logs"), including what you asked for, when you asked for it, what browser you used, and your IP address. This information is *not* combined with account information and is used for basic analytics and resource planning. These records are retained indefinitely.
-    * The system logs what users do on the service (when they log in, what games they played, etc.; called an "audit log"). This helps us detect and prevent abuse and helps us better understand how to improve the site. These records may be retained for the life of the account.
-    * If you create an account using a third-party service (like Google or Facebook), then we will have access to basic profile information (different for each service). We don't have a choice in this. If it were up to us, all we'd want is the email address for notifications (opt in), but these services offer up much more. This site is not supported by advertising. We don't sell or distribute any of this profile information.
-    * We will of course have access to any data you provide in your profile (country, display name, etc.).
-    * In-game chat logs are public and visible to all as long as the game is available. Chat logs are <em>not</em> part of the permanent game record.
-    * Each and every game played is recorded and published to the permanent game record.
+* Our servers track basic information as you use our services (known as "access logs"), including what you asked for, when you asked for it, what browser you used, and your IP address. This information is *not* combined with account information and is used for basic analytics and resource planning. These records are retained indefinitely.
+* The system logs what users do on the service (when they log in, what games they played, etc.; called an "audit log"). This helps us detect and prevent abuse and helps us better understand how to improve the site. These records may be retained for the life of the account.
+* If you create an account using a third-party service (like Google or Facebook), then we will have access to basic profile information (different for each service). We don't have a choice in this. If it were up to us, all we'd want is the email address for notifications (opt in), but these services offer up much more. This site is not supported by advertising. We don't sell or distribute any of this profile information.
+* We will of course have access to any data you provide in your profile (country, display name, etc.).
+* In-game chat logs are public and visible to all as long as the game is available. Chat logs are <em>not</em> part of the permanent game record.
+* Each and every game played is recorded and published to the permanent game record.
 
 ## Who do we share this information with?
 
