@@ -1,6 +1,6 @@
 ---
 title: "Terms of Service"
-permalink: "/terms/
+permalink: "/terms/"
 ---
 
 To create an Abstract Play account, you must agree to be bound by these terms. You can revoke your consent at any time by deleting your account. If you have any questions, please do not hesitate to contact us at [GENERAL BOX]().
