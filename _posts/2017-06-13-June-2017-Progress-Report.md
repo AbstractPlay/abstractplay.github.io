@@ -4,7 +4,7 @@ category: blog
 
 I got three development days in since the last update and actually made some meaningful progress.
 
-- My biggest conquest was figuring out how to translate the front end. [If you go there](https://www.abstractplay.com/play) you will see a language switcher next to the login button. Changing that translates all the visible text! Magic! (Note that the authentication stuff won't work because the back-end server is only online while I'm working on it.)
+- My biggest conquest was figuring out how to translate the front end. [If you go there]() you will see a language switcher next to the login button. Changing that translates all the visible text! Magic! (Note that the authentication stuff won't work because the back-end server is only online while I'm working on it.)
 
   A translation workflow will be documented on the wiki when that time comes so people can help with the translation. The more the merrier!
 
